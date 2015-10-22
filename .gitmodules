@@ -1,0 +1,3 @@
+[submodule "uc_includes"]
+	path = uc_includes
+	url = https://github.com/Echtzeitsysteme/tud-cpp-ucincludes
